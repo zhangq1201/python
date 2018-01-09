@@ -1,6 +1,5 @@
 import urllib2
 
-
 class HtmlDownload(object):
 
     def download(self, url):
